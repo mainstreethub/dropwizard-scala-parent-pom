@@ -3,7 +3,7 @@ import com.mainstreethub.jenkins.pipelines.java.library.Pipeline
 
 def notifier = new Notifier([
   steps: this,
-  ownerChannels: ["data-team-notif"]
+  ownerChannels: ["gps-revx-dev-notif"]
 ])
 
 new Pipeline(this)
