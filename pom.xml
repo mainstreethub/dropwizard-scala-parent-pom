@@ -28,7 +28,7 @@
     <scala_major.version>2.11</scala_major.version>
     <scala.version>${scala_major.version}.8</scala.version>
     <scalatest.version>3.0.0</scalatest.version>
-    <retrofit.version>2.3.0</retrofit.version>
+    <retrofit.version>2.5.0</retrofit.version>
   </properties>
 
   <build>
